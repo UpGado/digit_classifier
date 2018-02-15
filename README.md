@@ -9,6 +9,8 @@ I created a Neural Net that can recognize handwritten digits and classify them, 
 
 The classifier worked, and reached an accuracy of 84% on the training set! 
 
+![alt text](accuracy_graph.png)
+
 This project was submitted as the final project for ES2: MATLAB for Engineers at Tufts University. The Professor who taught the class was Brian Tracey (whom I will always love and appreciate!)
 
 ## WHERE TO START
