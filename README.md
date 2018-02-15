@@ -4,10 +4,12 @@
 #### Date: 05/12/2017
 
 ## OVERVIEW
+It was finals period, and I was feeling too free. I came up with this challenge:
+I created a Neural Net that can recognize handwritten digits and classify them, all written from scratch and without using any libraries. As a challenge, I forbad myself from reading any code, and restricted my research to articles in plain English that describe the ideas behind Neural Nets.
 
-The goal of this project was to create a Neural Net that can recognize a handwritten digit and classify them, withhout using any libraries or looking at any code that is available online. As a challenge, I strictly only read about how Neural Networks work in plain English and tried to implement the ideas in MATLAB.
+The classifier worked, and reached an accuracy of 84% on the training set! 
 
-This project was submitted as the final project for ES2: Matlab for Engineering at Tufts University. The Professor's of the class was Brian Tracey (whom I will always love and appreciate!)
+This project was submitted as the final project for ES2: MATLAB for Engineers at Tufts University. The Professor who taught the class was Brian Tracey (whom I will always love and appreciate!)
 
 ## WHERE TO START
 
