@@ -18,9 +18,6 @@ A good starting point is startHere.m, which will guide the user through configur
 
 1) startHere.m - a script that initializes a neural network and starts learning using SGD
 
-2) runBoxSizeEffect.m - script that examines how the number of collisions with the wall 
-(a surrogate for pressure of a gas) depends on the size of the enclosing box
-
 
 ## CALCULATION FUNCTIONS
 
