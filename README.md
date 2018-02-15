@@ -6,7 +6,8 @@
 ## OVERVIEW
 
 The goal of this project was to create a Neural Net that can recognize a handwritten digit and classify them, withhout using any libraries or looking at any code that is available online. As a challenge, I strictly only read about how Neural Networks work in plain English and tried to implement the ideas in MATLAB.
-This project was submitted as the final project for ES2: Matlab for Engineering at Tufts University. The professor's name is Brian Tracey (whom I will always love and appreciate!)
+
+This project was submitted as the final project for ES2: Matlab for Engineering at Tufts University. The Professor's of the class was Brian Tracey (whom I will always love and appreciate!)
 
 ## WHERE TO START
 
