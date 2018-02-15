@@ -38,3 +38,7 @@ A good starting point is startHere.m, which will guide the user through configur
 2) loadMNISTImages.m & loadMNISTLabels.m - these functions manage low level file reading for MNIST data set
          These functions are the only foreign code used. Source: http://ufldl.stanford.edu/wiki/index.php/Using_the_MNIST_Dataset
 3) saveNeuralNet.m - this function saves a .nng file containing all the neural network data. At some time in the future, I will make a loadNeuralNet function!
+
+### Licensing
+
+* See [LICENSE](LICENSE).
