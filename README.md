@@ -7,7 +7,7 @@
 It was finals period, and I was feeling too free. I came up with this challenge:
 I created a Neural Net that can recognize handwritten digits and classify them, all written from scratch and without using any libraries. As a challenge, I forbad myself from reading any code, and restricted my research to articles in plain English that describe the ideas behind Neural Nets.
 
-The classifier worked, and reached an accuracy of 84% on the training set! 
+The classifier worked, and reached an accuracy of 84% on the testing set! 
 
 ![alt text](docs/accuracy_graph.png)
 
